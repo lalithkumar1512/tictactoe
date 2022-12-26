@@ -1,1 +1,20 @@
-
+{
+  "users": [
+    {
+      "username": "Harika",
+      "email": "harika.l0214@gmail.com",
+      "password": "1234567",
+      "phnumber": "9014554711",
+      "id": 1
+    },
+    {
+      "username": "lalithkumar1512",
+      "email": "lalithkumar.g20@iiits.in",
+      "password": "1234",
+      "phnumber": "9346184951",
+      "picture": "https://www.superprof.ng/images/teachers/teacher-home-guaranteed-mastery-programming-language-all-levels-classes-250-each-limited-seats-discount-rate-hurry.jpg",
+      "id": 3
+    }
+  ],
+  "posts": []
+}
